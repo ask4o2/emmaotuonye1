@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in web development and Data sciencce
+- 👀 I’m interested in web development and Data science
 - 🌱 I’m currently learning best practices for integrating api's with User Interface
 - 💞️ I’m looking to collaborate on react projects
 - 📫 You can reach me on social media via @ask4o2 (twitter and instagram)
